@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Univer\SystemProgramming\test\test\test.c(127,21): warning C4018: '>': signed/unsigned mismatch
+D:\Univer\SystemProgramming\test\test\test.c(141,23): warning C4018: '<': signed/unsigned mismatch
+  test.vcxproj -> D:\Univer\SystemProgramming\test\Debug\test.exe
