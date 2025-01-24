@@ -1,0 +1,4 @@
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_3/lin/build/CMakeFiles/Lab-03b-server.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_3/lin/build/CMakeFiles/Lab-03b-client.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_3/lin/build/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_3/lin/build/CMakeFiles/rebuild_cache.dir

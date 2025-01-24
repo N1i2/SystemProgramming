@@ -1,0 +1,1 @@
+clang CMakeFiles/laba_4b.dir/src/laba_4b.c.o -o laba_4b 

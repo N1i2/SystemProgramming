@@ -1,0 +1,3 @@
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/build/CMakeFiles/service09d.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/build/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/build/CMakeFiles/rebuild_cache.dir

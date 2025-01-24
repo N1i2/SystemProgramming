@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstatic-lib.a "CMakeFiles/static-lib.dir/static-lib.c.o"
+/usr/bin/ranlib libstatic-lib.a

@@ -1,0 +1,9 @@
+# ninja log v6
+19	892	7536195621305354	CMakeFiles/Lab-03b-server.dir/src/Lab-03b-server.c.obj	f3894a97a3cf5cf6
+11	923	7536195621259213	CMakeFiles/Lab-03a-client.dir/src/Lab-03a-client.c.obj	e0d9b4f1825fe7ba
+5	952	7536195621113918	CMakeFiles/Lab-03a-server.dir/src/Lab-03a-server.c.obj	60fdff57bdac35e6
+24	1031	7536195621400397	CMakeFiles/Lab-03b-client.dir/src/Lab-03b-client.c.obj	cb525c95ec4b2faa
+897	1168	7536195630088947	Lab-03b-server.exe	1fb8b60a6f556301
+952	1175	7536195630624102	Lab-03a-server.exe	b3f23dacccf24631
+923	1182	7536195630364787	Lab-03a-client.exe	316e968d7baaa6e9
+1032	1263	7536195631467403	Lab-03b-client.exe	c7fe83db203dd336

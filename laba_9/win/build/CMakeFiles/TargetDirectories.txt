@@ -1,0 +1,4 @@
+D:/Univer/SystemProgramming/laba_9/win/build/CMakeFiles/laba_9a.dir
+D:/Univer/SystemProgramming/laba_9/win/build/CMakeFiles/ServiceCtl.dir
+D:/Univer/SystemProgramming/laba_9/win/build/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_9/win/build/CMakeFiles/rebuild_cache.dir

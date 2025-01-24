@@ -1,0 +1,12 @@
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/CMakeFiles/rebuild_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/main-project/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/main-project/CMakeFiles/rebuild_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/main-project/src/CMakeFiles/main-project.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/main-project/src/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/main-project/src/CMakeFiles/rebuild_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/dynamic-lib/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/dynamic-lib/CMakeFiles/rebuild_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/dynamic-lib/src/CMakeFiles/dynamic-lib.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/dynamic-lib/src/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-2/build/dynamic-lib/src/CMakeFiles/rebuild_cache.dir

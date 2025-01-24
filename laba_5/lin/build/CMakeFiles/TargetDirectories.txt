@@ -1,0 +1,5 @@
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_5/lin/build/CMakeFiles/laba_5d.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_5/lin/build/CMakeFiles/laba_5e.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_5/lin/build/CMakeFiles/laba_5f.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_5/lin/build/CMakeFiles/edit_cache.dir
+/media/niikola/Nikoals/Univer/SystemProgramming/laba_5/lin/build/CMakeFiles/rebuild_cache.dir

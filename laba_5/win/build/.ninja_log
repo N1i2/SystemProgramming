@@ -1,0 +1,7 @@
+# ninja log v6
+2	105	7565812301699370	CMakeFiles/laba_5a.dir/src/laba_5a.c.obj	d400367c75753df2
+107	244	7565812302792804	laba_5a.exe	27238af8ea45faaa
+6	538	7565812301699370	CMakeFiles/laba_5b.dir/src/laba_5b.c.obj	6418d3d5ab2371d8
+11	559	7565812301699370	CMakeFiles/laba_5c.dir/src/laba_5c.c.obj	8e5e6e5ceedde4ac
+540	677	7565812307050959	laba_5b.exe	89361104afb99efa
+559	703	7565812307312965	laba_5c.exe	ff785da28df9e4de

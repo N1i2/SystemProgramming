@@ -1,0 +1,1 @@
+clang "CMakeFiles/main-project.dir/main-project.c.o" -o main-project   -L/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-1/static-lib/src  -Wl,-rpath,/media/niikola/Nikoals/Univer/SystemProgramming/laba_8/lin-1/static-lib/src ../../static-lib/src/libstatic-lib.a 

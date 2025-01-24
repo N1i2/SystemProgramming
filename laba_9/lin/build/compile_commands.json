@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/build",
+  "command": "clang   -std=gnu23 -o CMakeFiles/service09d.dir/src/service09d.c.o -c /media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/src/service09d.c",
+  "file": "/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/src/service09d.c",
+  "output": "CMakeFiles/service09d.dir/src/service09d.c.o"
+},
+{
+  "directory": "/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/build",
+  "command": "clang   -std=gnu23 -o CMakeFiles/service09d.dir/src/become_daemon.c.o -c /media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/src/become_daemon.c",
+  "file": "/media/niikola/Nikoals/Univer/SystemProgramming/laba_9/lin/src/become_daemon.c",
+  "output": "CMakeFiles/service09d.dir/src/become_daemon.c.o"
+}
+]

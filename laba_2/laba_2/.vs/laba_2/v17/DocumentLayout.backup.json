@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D11497B3-E62B-4646-B7BB-08195226BDFE}|Lab-02d\\Lab-02d.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02d\\Lab-02d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D11497B3-E62B-4646-B7BB-08195226BDFE}|Lab-02d\\Lab-02d.vcxproj|solutionrelative:Lab-02d\\Lab-02d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA2DE2E-A060-41C7-9432-E3E3B5F03581}|Lab-2a\\Lab-2a.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-2a\\Lab-2a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEA2DE2E-A060-41C7-9432-E3E3B5F03581}|Lab-2a\\Lab-2a.vcxproj|solutionrelative:Lab-2a\\Lab-2a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29ACC3F-6034-4B28-8C78-8CCD79A74E8D}|Lab-02c\\Lab-02c.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02c\\Lab-02c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A29ACC3F-6034-4B28-8C78-8CCD79A74E8D}|Lab-02c\\Lab-02c.vcxproj|solutionrelative:Lab-02c\\Lab-02c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92652E11-0E9D-487C-A1DF-F407DD39936D}|Lab-02b\\Lab-02b.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02b\\Lab-02b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92652E11-0E9D-487C-A1DF-F407DD39936D}|Lab-02b\\Lab-02b.vcxproj|solutionrelative:Lab-02b\\Lab-02b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5A2408-EDBA-4D93-9A2B-72380DE41671}|Lab-02x\\Lab-02x.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02x\\Lab-02x.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D5A2408-EDBA-4D93-9A2B-72380DE41671}|Lab-02x\\Lab-02x.vcxproj|solutionrelative:Lab-02x\\Lab-02x.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36573C20-CC15-4582-A5B4-FAF0A598E084}|Lab-02inf\\Lab-02inf.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02inf\\Lab-02inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36573C20-CC15-4582-A5B4-FAF0A598E084}|Lab-02inf\\Lab-02inf.vcxproj|solutionrelative:Lab-02inf\\Lab-02inf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A5B8C-E073-4262-B4AE-ABA621FA877D}|Lab-02hw\\Lab-02hw.vcxproj|D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02hw\\Lab-02hw.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F3A5B8C-E073-4262-B4AE-ABA621FA877D}|Lab-02hw\\Lab-02hw.vcxproj|solutionrelative:Lab-02hw\\Lab-02hw.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-2a.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-2a\\Lab-2a.c",
+              "RelativeDocumentMoniker": "Lab-2a\\Lab-2a.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-2a\\Lab-2a.c",
+              "RelativeToolTip": "Lab-2a\\Lab-2a.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:22:16.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab-02b.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02b\\Lab-02b.c",
+              "RelativeDocumentMoniker": "Lab-02b\\Lab-02b.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02b\\Lab-02b.c",
+              "RelativeToolTip": "Lab-02b\\Lab-02b.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:22:18.736Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-02c.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02c\\Lab-02c.c",
+              "RelativeDocumentMoniker": "Lab-02c\\Lab-02c.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02c\\Lab-02c.c",
+              "RelativeToolTip": "Lab-02c\\Lab-02c.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:22:25.546Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-02d.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02d\\Lab-02d.c",
+              "RelativeDocumentMoniker": "Lab-02d\\Lab-02d.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02d\\Lab-02d.c",
+              "RelativeToolTip": "Lab-02d\\Lab-02d.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:22:39.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab-02x.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02x\\Lab-02x.c",
+              "RelativeDocumentMoniker": "Lab-02x\\Lab-02x.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02x\\Lab-02x.c",
+              "RelativeToolTip": "Lab-02x\\Lab-02x.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:22:48.427Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab-02hw.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02hw\\Lab-02hw.c",
+              "RelativeDocumentMoniker": "Lab-02hw\\Lab-02hw.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02hw\\Lab-02hw.c",
+              "RelativeToolTip": "Lab-02hw\\Lab-02hw.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:23:01.883Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab-02inf.c",
+              "DocumentMoniker": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02inf\\Lab-02inf.c",
+              "RelativeDocumentMoniker": "Lab-02inf\\Lab-02inf.c",
+              "ToolTip": "D:\\Univer\\SystemProgramming\\laba_2\\laba_2\\Lab-02inf\\Lab-02inf.c",
+              "RelativeToolTip": "Lab-02inf\\Lab-02inf.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T08:23:07.088Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

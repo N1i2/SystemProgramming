@@ -1,0 +1,1 @@
+clang "CMakeFiles/main-project.dir/main-project.c.o" -o ../../bin/main-project 

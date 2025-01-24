@@ -1,0 +1,5 @@
+# ninja log v6
+6	516	7572036321864351	static-lib/src/CMakeFiles/static-lib.dir/static-lib.c.obj	4189272dc8a52ee1
+12	541	7572036321933146	main-project/src/CMakeFiles/main-project.dir/main-project.c.obj	58ca7c68de66b2cc
+520	617	7572036326997685	static-lib/src/static-lib.lib	fb8d9b2564c7579e
+617	758	7572036327973053	main-project/src/main-project.exe	bfb4f82a9b36bc97

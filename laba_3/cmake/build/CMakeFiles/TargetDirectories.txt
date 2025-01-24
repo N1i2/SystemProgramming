@@ -1,0 +1,6 @@
+D:/Univer/SystemProgramming/laba_3/cmake/build/CMakeFiles/Lab-03a-server.dir
+D:/Univer/SystemProgramming/laba_3/cmake/build/CMakeFiles/Lab-03a-client.dir
+D:/Univer/SystemProgramming/laba_3/cmake/build/CMakeFiles/Lab-03b-server.dir
+D:/Univer/SystemProgramming/laba_3/cmake/build/CMakeFiles/Lab-03b-client.dir
+D:/Univer/SystemProgramming/laba_3/cmake/build/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_3/cmake/build/CMakeFiles/rebuild_cache.dir

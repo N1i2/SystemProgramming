@@ -1,0 +1,17 @@
+D:/Univer/SystemProgramming/laba_8/win-2/build/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/main-project/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/main-project/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/main-project/src/CMakeFiles/main-project.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/main-project/src/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/main-project/src/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-lib/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-lib/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-lib/src/CMakeFiles/dynamic-lib.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-lib/src/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-lib/src/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-def-lib/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-def-lib/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-def-lib/src/CMakeFiles/dynamic-def-lib.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-def-lib/src/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-2/build/dynamic-def-lib/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+LIBRARY "dynamic-def-lib"
+EXPORTS
+    DisplayMenu @1
+    OpenMapping @2
+    WriteStudentInfo @3
+    RemRow @4
+    PrintRow @5
+    PrintRows @6
+    CloseMapping @7
+    IsMappingOpen @8
+    DisplayError @9

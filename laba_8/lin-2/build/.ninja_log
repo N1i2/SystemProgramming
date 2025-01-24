@@ -1,0 +1,9 @@
+# ninja log v6
+17	465	7577878056734428	main-project/src/CMakeFiles/main-project.dir/main-project.c.obj	8a6bdb18c38d4e8c
+11	478	7577878056668480	dynamic-def-lib/src/CMakeFiles/dynamic-def-lib.dir/dynamic-def-lib.c.obj	d44f433969f3f305
+4	497	7577878056606990	dynamic-lib/src/CMakeFiles/dynamic-lib.dir/dynamic-lib.c.obj	9ecae04667fe38a
+479	624	7577878062461930	dynamic-def-lib.dll	cb4189dd2b48d4c3
+479	624	7577878062461930	dynamic-def-lib.lib	cb4189dd2b48d4c3
+497	638	7577878062636244	dynamic-lib.dll	43e9c02dcd20721e
+497	638	7577878062636244	dynamic-lib.lib	43e9c02dcd20721e
+639	794	7577878062949349	main-project.exe	63c4317764478c14

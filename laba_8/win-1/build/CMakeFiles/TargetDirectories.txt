@@ -1,0 +1,12 @@
+D:/Univer/SystemProgramming/laba_8/win-1/build/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/main-project/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/main-project/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/main-project/src/CMakeFiles/main-project.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/main-project/src/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/main-project/src/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/static-lib/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/static-lib/CMakeFiles/rebuild_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/static-lib/src/CMakeFiles/static-lib.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/static-lib/src/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_8/win-1/build/static-lib/src/CMakeFiles/rebuild_cache.dir

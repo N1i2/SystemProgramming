@@ -1,0 +1,1 @@
+clang -fPIC -shared -Wl,-soname,libdynamic-lib.so -o ../../bin/libdynamic-lib.so "CMakeFiles/dynamic-lib.dir/dynamic-lib.c.o" 

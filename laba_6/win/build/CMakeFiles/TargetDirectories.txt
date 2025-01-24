@@ -1,0 +1,5 @@
+D:/Univer/SystemProgramming/laba_6/win/build/CMakeFiles/laba_6a.dir
+D:/Univer/SystemProgramming/laba_6/win/build/CMakeFiles/laba_6b.dir
+D:/Univer/SystemProgramming/laba_6/win/build/CMakeFiles/laba_6c.dir
+D:/Univer/SystemProgramming/laba_6/win/build/CMakeFiles/edit_cache.dir
+D:/Univer/SystemProgramming/laba_6/win/build/CMakeFiles/rebuild_cache.dir

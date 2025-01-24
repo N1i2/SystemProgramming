@@ -1,0 +1,5 @@
+# ninja log v6
+4	2225	7593177570042207	static-lib/src/CMakeFiles/static-lib.dir/static-lib.c.obj	df8e4c8120e1d820
+9	2245	7593177570102417	main-project/src/CMakeFiles/main-project.dir/main-project.c.obj	2baef77e4dec77b5
+2228	2390	7593177592169737	static-lib/src/static-lib.lib	6ac1ff66b7a51d76
+2391	2527	7593177593911111	main-project/src/main-project.exe	fb6648d32ff08b5f
